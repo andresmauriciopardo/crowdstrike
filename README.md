@@ -1,8 +1,10 @@
+Source: https://www.crowdstrike.com/blog/statement-on-windows-sensor-update/
+
 <div class="row">
 <div class="col-12">
 <div style="padding:40px 0 400px;max-width:760px;">
 <h1 style="font-size:44px;" role="heading" aria-level="2" data-uw-rm-heading="level">Statement on Falcon Content Update for Windows Hosts</h1>
-<p> <img src="/wp-content/uploads/2016/03/Blue.jpg" data-uw-rm-alt-original="" alt="bird" data-uw-rm-alt="BE"></p>
+<p> <img src="https://www.crowdstrike.com/wp-content/uploads/2016/03/Blue.jpg" data-uw-rm-alt-original="" alt="bird" data-uw-rm-alt="BE"></p>
 <p> CrowdStrike is actively working with customers impacted by a defect found in a single content update for Windows hosts. Mac and Linux hosts are not impacted. This is not a security incident or cyberattack. </p>
 <p> The issue has been identified, isolated and a fix has been deployed. We refer customers to the support portal for the latest updates and will continue to provide complete and continuous updates on our website. </p>
 <p> We further recommend organizations ensure they’re communicating with CrowdStrike representatives through official channels. </p>
